@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science,Machine learning,Deep Learning**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lJmAAKZ-Ms9VqQZkEEDgd6TBOmCr-ZrW/view?usp=sharing](https://drive.google.com/file/d/1lJmAAKZ-Ms9VqQZkEEDgd6TBOmCr-ZrW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M-U3U_oW8G-13LcAXWgS1uVzJW5fgIWQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
