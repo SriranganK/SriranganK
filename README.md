@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Srirangan Kannan</h1>
-<h3 align="center">I am a student who is interested in coding challenges and technologies and am currently learning new technologies to improve myself</h3>
+<h3 align="center">Software Engineer passionate about coding challenges, building real-time projects, and exploring new technologies to solve problems effectively.</h3>
 
-- ⚡ Pursuing my UG at **Sri Venkateswara College of Engineering B.tech in Artificial Intelligence and Data Science**
+- ⚡ Graduated with a **B.Tech in Artificial Intelligence and Data Science** from **Sri Venkateswara College of Engineering**.
 
-- 🌱 I’m currently learning **Data Science,Machine learning,Deep Learning**
+- 🌱 Currently learning **Rust** and **React Native** to build real-time projects.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M-U3U_oW8G-13LcAXWgS1uVzJW5fgIWQ/view?usp=drive_link)
+- 🚀 Skilled in full-stack development, cloud services, and DevOps, with experience in technologies like React.js, Node.js, AWS, and Docker.
+
+- 💡 Interested in **Machine Learning**, **Deep Learning**, and **Data Science**, constantly exploring innovative solutions in these fields.
+
+- 📄 Check out my experiences and projects here: [Resume](https://drive.google.com/file/d/1M-U3U_oW8G-13LcAXWgS1uVzJW5fgIWQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
